@@ -1,1 +1,1 @@
-# social-network-api
+# read-me-generator
